@@ -79,7 +79,7 @@ var tiger_id = config["tiger_id"];
 
 ### 获取老虎证券账户信息的方法
 ```c#
-			//1 Generate Dictionary
+//1 Generate Dictionary
             //  Convert time zone to the one in Chinese
             var chinaZone = TimeZoneInfo.FindSystemTimeZoneById("China Standard Time");
             var dtChina = TimeZoneInfo.ConvertTimeFromUtc(DateTime.UtcNow.Date, chinaZone);
@@ -131,7 +131,7 @@ var tiger_id = config["tiger_id"];
 
 ### 预期结果
 
-![Image](E:\GitHub\TigerBrokerLib\README.assets\Image.png)
+![Image](E:\GitHub\TigerBrokerLib\images\Image.png)
 
 
 
@@ -141,11 +141,11 @@ var tiger_id = config["tiger_id"];
 
 ### 支付宝
 
-<img src="E:\GitHub\TigerBrokerLib\README.assets\支付宝二维码.jpg" alt="支付宝二维码" style="zoom:50%;" />
+<img src="E:\GitHub\TigerBrokerLib\images\支付宝二维码.jpg" alt="支付宝二维码" style="zoom:50%;" />
 
 ### Venmo
 
-<img src="E:\GitHub\TigerBrokerLib\README.assets\Venmo.jpg" alt="Venmo" style="zoom:50%;" />
+<img src="E:\GitHub\TigerBrokerLib\images\Venmo.jpg" alt="Venmo" style="zoom:50%;" />
 
 ### 老虎推荐码
 
