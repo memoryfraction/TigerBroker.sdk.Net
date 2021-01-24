@@ -348,3 +348,6 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+/src/TigerBrokerLibrary.Test/Data/TigerBrokerPublicKey.txt
+/src/TigerBrokerLibrary.Test/Data/TigerBrokerPrivateKey.txt
+/src/TigerBrokerLibrary.Test/Data/client-secrets.json
