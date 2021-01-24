@@ -8,12 +8,12 @@ using TigerBrokerLibrary.Service;
 namespace TigerBrokerLibrary.UnitTest
 {
     [TestClass]
-    public class ITigertBrokerServiceIntegrationTests
+    public class TigertBrokerServiceIntegrationTests
     {
 
         private readonly ITigerBrokerService _tigerBrokerService;
         private IConfigurationRoot config;
-        public ITigertBrokerServiceIntegrationTests()
+        public TigertBrokerServiceIntegrationTests()
         {
             _tigerBrokerService = new TigerBrokerService();
 
