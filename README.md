@@ -137,25 +137,9 @@ var tiger_id = config["tiger_id"];
 
 
 
-## 支持
+## 捐赠与支持
 
-### 支付宝
-
-<img src="https://github.com/memoryfraction/TigerBrokerLib/blob/main/images/%E6%94%AF%E4%BB%98%E5%AE%9D%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg?raw=true" alt="支付宝二维码" style="zoom:30%;" />
-
-### Venmo
-
-<img src="https://github.com/memoryfraction/TigerBrokerLib/blob/main/images/Venmo.jpg?raw=true" alt="Venmo" style="zoom:30%;" />
-
-### 老虎推荐码
-
-JJEH3
-
-
-
-## 其他
-
-如果使用人数较多，比如：收藏过千，会考虑继续开发行情数据的获取和自动化交易等特性。
-
-
+- [支付宝](https://github.com/memoryfraction/TigerBrokerLib/blob/main/images/%E6%94%AF%E4%BB%98%E5%AE%9D%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg?raw=true)
+- [Venmo](https://github.com/memoryfraction/TigerBrokerLib/blob/main/images/Venmo.jpg)
+- 老虎证券推荐码: JJEH3
 
