@@ -131,6 +131,12 @@ var tiger_id = config["tiger_id"];
 
 
 
+### 客户端（单元测试）项目文件结构图
+
+![Image](https://github.com/memoryfraction/TigerBrokerLib/blob/main/images/UnitTestFilesOrganization.png?raw=true)
+
+
+
 ### 预期结果
 
 ![Image](https://github.com/memoryfraction/TigerBrokerLib/blob/main/images/ExpectResult.png?raw=true)
