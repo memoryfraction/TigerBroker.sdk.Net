@@ -6,6 +6,7 @@
     <Company />
     <Description>A library that helps users to get account info from Tiger Broker.
 e.g. balance, currency type etc.
+
 Author Email: rong.fan2020@outlook.com</Description>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
