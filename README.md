@@ -50,15 +50,17 @@
 
 ### TigerBrokerLib安装方法
 
--  自行编译法
+-  自行编译
 
 下载src, 安装Visual Studio，编译源码并获取TigerBrokerLibrary.dll, 然后可以使用。
 
 
 
-- Nuget包安装法
+- [Nuget包](https://www.nuget.org/packages/TigerBrokerLibrary/)安装
 
-待完成
+```c#
+Install-Package TigerBrokerLibrary -Version 1.0.0
+```
 
 
 
@@ -134,6 +136,10 @@ var tiger_id = config["tiger_id"];
 ![Image](https://github.com/memoryfraction/TigerBrokerLib/blob/main/images/ExpectResult.png?raw=true)
 
 
+
+## 声明
+
+由于知识有限，精力有限，不对开源版本提供任何使用质量保障和服务。如有问题， 欢迎在[Issue](https://github.com/memoryfraction/TigerBrokerLib/issues)区提出。
 
 
 
