@@ -131,7 +131,7 @@ var tiger_id = config["tiger_id"];
 
 ### 预期结果
 
-![Image](\images\Image.png)
+![Image](https://github.com/memoryfraction/TigerBrokerLib/blob/main/images/ExpectResult.png?raw=true)
 
 
 
@@ -141,11 +141,11 @@ var tiger_id = config["tiger_id"];
 
 ### 支付宝
 
-<img src="\images\支付宝二维码.jpg" alt="支付宝二维码" style="zoom:50%;" />
+<img src="https://github.com/memoryfraction/TigerBrokerLib/blob/main/images/%E6%94%AF%E4%BB%98%E5%AE%9D%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg?raw=true" alt="支付宝二维码" style="zoom:50%;" />
 
 ### Venmo
 
-<img src="\images\Venmo.jpg" alt="Venmo" style="zoom:50%;" />
+<img src="https://github.com/memoryfraction/TigerBrokerLib/blob/main/images/Venmo.jpg?raw=true" alt="Venmo" style="zoom:50%;" />
 
 ### 老虎推荐码
 
