@@ -144,13 +144,12 @@ var tiger_id = config["tiger_id"];
 
 
 ## 声明
-
-由于知识有限，精力有限，不对开源版本提供任何使用质量保障和服务。如有问题， 欢迎在[Issue](https://github.com/memoryfraction/TigerBrokerLib/issues)区提出。
+如有问题， 欢迎在[Issue](https://github.com/memoryfraction/TigerBrokerLib/issues)区提出。
 
 
 
 ## 捐赠与支持
-
+如果本项目对您有帮助，请点击右上角Star表示支持。
 - [支付宝](https://github.com/memoryfraction/TigerBrokerLib/blob/main/images/%E6%94%AF%E4%BB%98%E5%AE%9D%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg?raw=true)
 - [Venmo](https://github.com/memoryfraction/TigerBrokerLib/blob/main/images/Venmo.jpg)
 - 老虎证券推荐码: JJEH3
