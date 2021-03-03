@@ -149,7 +149,7 @@ var tiger_id = config["tiger_id"];
 
 
 ## 捐赠与支持
-如果本项目对您有帮助，请点击右上角Star表示支持。
+如果本项目对您有帮助，请点击右上角Star并转发给需要的好友。
 您也可以通过下方链接请我喝杯咖啡
 - [支付宝](https://github.com/memoryfraction/TigerBrokerLib/blob/main/images/%E6%94%AF%E4%BB%98%E5%AE%9D%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg?raw=true)
 - [Venmo](https://github.com/memoryfraction/TigerBrokerLib/blob/main/images/Venmo.jpg)
