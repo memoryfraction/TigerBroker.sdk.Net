@@ -20,19 +20,23 @@ This kind of library can be used to communicate with Tiger Securities and automa
 
 ## Preparatory Work
 
-获取开发者信息
+Get developer information
 
-进入[老虎量化](https://quant.itiger.com/openapi/py-docs/zh-cn/docs/intro/quickstart.html)开发者页面，按照页面提示，注册成为开发者。并确保获取如下信息
+Use the 
 
-RSA公钥：比如存为PublicKey.txt
+[tiger Quant]: https://quant.itiger.com/openapi/py-docs/zh-cn/docs/intro/quickstart.html
 
-RSA私钥：比如存为PrivateKey.txt
+ register as a developer. And be sure to get the following information
 
-account: 用来区分用户的账户类型，用户交易时选择对应的账户类型即可
+RSA Public Key: Save as PublicKey.txt
 
-tigerId： 用来唯一标识一个开发者，在请求API接口时需要该参数
+RSA Private Key: Save as PrivateKey.txt
 
-建议使用client-secrets.json存储私密信息， 格式如下
+account: It is used to distinguish the account type of the user, and the user can select the corresponding account type when trading
+
+tigerId： Used to uniquely identify a developer. This parameter is required when requesting an API interface
+
+It is recommended to use client-secret. json to store private information in the following format
 
 ```json
 {
@@ -145,6 +149,9 @@ You can also buy me a cup of coffee at the link below
 - [Alipay](https://github.com/memoryfraction/TigerBrokerLib/blob/main/images/%E6%94%AF%E4%BB%98%E5%AE%9D%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg?raw=true)
 - [Venmo](https://github.com/memoryfraction/TigerBrokerLib/blob/main/images/Venmo.jpg)
 - Tiger Broker Reference Code: JJEH3
+
+
+
 
 
 简介: 使用该类库可以与老虎证券通信，自动获得用户的账户市值信息。 
